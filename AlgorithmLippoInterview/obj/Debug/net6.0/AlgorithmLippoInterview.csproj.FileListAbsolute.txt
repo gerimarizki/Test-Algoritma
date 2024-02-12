@@ -1,0 +1,15 @@
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\bin\Debug\net6.0\AlgorithmLippoInterview.exe
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\bin\Debug\net6.0\AlgorithmLippoInterview.deps.json
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\bin\Debug\net6.0\AlgorithmLippoInterview.runtimeconfig.json
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\bin\Debug\net6.0\AlgorithmLippoInterview.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\bin\Debug\net6.0\AlgorithmLippoInterview.pdb
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.csproj.AssemblyReference.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.GeneratedMSBuildEditorConfig.editorconfig
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.AssemblyInfoInputs.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.AssemblyInfo.cs
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.csproj.CoreCompileInputs.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\refint\AlgorithmLippoInterview.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.pdb
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\AlgorithmLippoInterview.genruntimeconfig.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\AlgorithmLippoInterview\obj\Debug\net6.0\ref\AlgorithmLippoInterview.dll

@@ -1,0 +1,17 @@
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\CodeTestSortingDanAlokasi.exe
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\CodeTestSortingDanAlokasi.deps.json
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\CodeTestSortingDanAlokasi.runtimeconfig.json
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\CodeTestSortingDanAlokasi.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\CodeTestSortingDanAlokasi.pdb
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\bin\Debug\net6.0\ConsoleTables.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.csproj.AssemblyReference.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.AssemblyInfoInputs.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.AssemblyInfo.cs
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.csproj.CoreCompileInputs.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.csproj.CopyComplete
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\refint\CodeTestSortingDanAlokasi.dll
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.pdb
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\CodeTestSortingDanAlokasi.genruntimeconfig.cache
+D:\LippoKarawaci\AlgorithmLippoInterview\CodeTestTagihan\obj\Debug\net6.0\ref\CodeTestSortingDanAlokasi.dll
